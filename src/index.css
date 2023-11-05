@@ -1,0 +1,15 @@
+:root {
+  --mainFont: "Roboto", sans-serif;
+  --mainBg: #f1f1f1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--mainFont);
+  font-weight: 400;
+  font-size: 18px;
+  background-color: var(--mainBg);
+}
